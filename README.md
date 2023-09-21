@@ -19,5 +19,6 @@ Este desafio não apenas demonstra como JavaScript pode ser usado para criar ló
 <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 <h2> Imagens do Desafio </h2>
+
 ![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio6/assets/120657741/a31c4335-d92a-40e9-99c8-a3b96d350ab0)
 
