@@ -9,7 +9,7 @@ A lógica por trás desse desafio é criar um código que tome decisões com bas
 Este desafio não apenas demonstra como JavaScript pode ser usado para criar lógica de programação condicional, mas também destaca a importância da precisão e da verificação de condições para garantir que um programa funcione conforme o esperado. É um exemplo prático de como a programação pode ser aplicada para resolver problemas específicos e definir critérios claros para a aceitação ou rejeição de dados de entrada.
 
 <h2> 🌐 Resultado </h2> 
-<a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio5/" target="_blank"> Desafio 5</a>
+<a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio6/" target="_blank"> Desafio 6</a>
 
 <h2> 💻 Tecnologias Utilizadas no Desafio</h2>
 
